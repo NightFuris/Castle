@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddf64dde04d93c24fadc768bca275751, type: 3}
+  m_Name: Home
+  m_EditorClassIdentifier: 
+  icon: {fileID: -9166642939268305642, guid: 6870cf0726b5f0240ab7bb8d39073e40, type: 3}
+  nameBuild: "\u0425\u0438\u0436\u0438\u043D\u0430"
+  infoBuild: 
+  typesResourcesGives: 01000000
+  numsResourcesGives: 23000000
+  typesResources: 0100000002000000
+  numsResources: 1e0000001e000000
+  typeBuilding: 4
+  whatLandPut: 01000000
+  pointNatures: 04000000
+  noPointNatures: 

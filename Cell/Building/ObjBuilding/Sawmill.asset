@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddf64dde04d93c24fadc768bca275751, type: 3}
+  m_Name: Sawmill
+  m_EditorClassIdentifier: 
+  icon: {fileID: 7533063184379844168, guid: 6870cf0726b5f0240ab7bb8d39073e40, type: 3}
+  nameBuild: "\u041B\u0435\u0441\u043E\u043F\u0438\u043B\u043A\u0430"
+  infoBuild: 
+  typesResourcesGives: 02000000
+  numsResourcesGives: 1e000000
+  typesResources: 0100000002000000
+  numsResources: 0f0000000f000000
+  typeBuilding: 7
+  whatLandPut: 01000000
+  pointNatures: 0400000003000000
+  noPointNatures: 
